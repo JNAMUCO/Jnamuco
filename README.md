@@ -1,16 +1,14 @@
-## Hi there 👋
+### hello 
 
-<!--
-**JNAMUCO/Jnamuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name:joseph namuco 
+Email:
+Course:computer science 
+School:fullbriht college 
+Age:21 
+Birthday:march 25, 2005
+Birthplace: Narra 
 
-Here are some ideas to get you started:
+## MORE INFORMATION 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"If I graduate from college, I want to apply for the Navy. I’ve really wanted to join the Navy ever since I was in elementary school."
+I chose Computer Science because this is the course I like.
